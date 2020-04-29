@@ -1,2 +1,2 @@
 # DatabaseBiblioteca
-MySQL project for the database exam at University.
+Progetto con MySQL per l'esame di Database per l'università. Compreso di query richieste e screenshot delle stesse.
